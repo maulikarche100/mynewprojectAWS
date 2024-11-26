@@ -1,0 +1,2 @@
+# mynewprojectAWS
+practice purpose
